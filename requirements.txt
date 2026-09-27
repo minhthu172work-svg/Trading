@@ -1,10 +1,6 @@
-streamlit>=1.28.0
-pandas>=1.5.0,<2.3.0
-numpy>=1.22.0,<2.0.0
-plotly>=5.15.0
-ta>=0.10.0
-scipy>=1.9.0
-matplotlib>=3.6.0
-seaborn>=0.12.0
-hyperopt>=0.2.7
-vectorbt>=0.25.0
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+vectorbt
+hyperopt
